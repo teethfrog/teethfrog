@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">2nd Year IT student located in Helsinki<br>Pursuing a Bachelor in Information Technology at Arcada University of Applied Sciences</h4>
+<h4 align="center">3rd Year IT student located in Helsinki<br>Pursuing a Bachelor in Information Technology at Arcada University of Applied Sciences</h4>
 
 ###
 
